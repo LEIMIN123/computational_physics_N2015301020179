@@ -35,7 +35,7 @@ a = 10
 b = 1
 initial_v = int(input("please input the initial velovity:"))
 t = 0
-delt_t = 0.05
+delt_t = 0.1
 process_v = initial_v
 
 """设定两个列表储存数据"""
@@ -55,7 +55,7 @@ ture_t=np.linspace(0,5,1000)
 ture_v=(a-c*np.exp(-b*ture_t))/b
 
 """画图，将利用欧拉方法得到的结果与解析结果进行对比"""
-plt.figure(figsize=(50,31))
+plt.figure(figsize=(40,21))
 plt.plot(list_t,list_v,label="$v(t)$",marker='.')
 plt.plot(ture_t,ture_v,linewidth=2,color="grey")
 plt.xlabel("Time(s)")
@@ -68,3 +68,4 @@ plt.show()
 
 下图为运行结果
 ![](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/32.png)
+图中蓝色点线为数值计算的结果，灰色线为解析解的结果。
