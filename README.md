@@ -4,4 +4,4 @@
 [exercise03](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/exercise03.md)  
 [exercise04](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/exercise04.md)  
 [exercise05](https://www.zybuluo.com/mdeditor#922452-full-reader)  
-[exercise06](https://www.zybuluo.com/mdeditor#930783-full-reader)
+[exercise06](https://www.zybuluo.com/ppsair/note/930783)
