@@ -7,3 +7,4 @@
 [exercise06](https://www.zybuluo.com/ppsair/note/930783)  
 [exercise07](https://www.zybuluo.com/ppsair/note/938387)  
 [exercise08](https://www.zybuluo.com/ppsair/note/947135)
+[midterm]()
