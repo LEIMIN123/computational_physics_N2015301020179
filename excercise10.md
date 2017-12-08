@@ -1,5 +1,5 @@
-# 第十三次作业  
-　　　2013301510017　　　　　马汉臻  
+# execercise10 
+
 
 # 摘要  
 > 本次作业完成第五章习题5.3，利用Gauss-Seidel方法数值求解拉普拉斯方程，研究两个有限大小的平行电容板附近的电势分布。由于本题情况有比较高的对称性，可以只计算四分之一个区域的电势分布，在扩展到全区域。我画出了电势分布的三维图像以及等势面图。  
@@ -29,6 +29,3 @@
 > 另外，画出了x-y平面上的等势线（面）。  
 ![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_5/5.png)  
 ![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_5/5.png)  
-
-### 致谢  
-> 无
