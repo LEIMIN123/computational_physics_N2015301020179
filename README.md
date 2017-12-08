@@ -9,3 +9,4 @@
 [exercise08](https://www.zybuluo.com/ppsair/note/947135)  
 [midterm](https://www.zybuluo.com/ppsair/note/964763)  
 [exercise09](https://www.zybuluo.com/ppsair/note/971347)  
+[exercise10]()
