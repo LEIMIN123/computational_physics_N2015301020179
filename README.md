@@ -9,5 +9,5 @@
 [exercise08](https://www.zybuluo.com/ppsair/note/947135)  
 [midterm](https://www.zybuluo.com/ppsair/note/964763)  
 [exercise09](https://www.zybuluo.com/ppsair/note/971347)  
-[exercise10](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/excercise10.md)
-[exercise11](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/excercise10.md)
+[exercise10](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/excercise10.md)  
+[exercise11](https://github.com/LEIMIN123/computational_physics_N2015301020179/blob/master/excercise11.md)
